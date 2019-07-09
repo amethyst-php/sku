@@ -1,10 +1,10 @@
 <?php
 
-namespace Railken\Amethyst\Tests\Managers;
+namespace Amethyst\Tests\Managers;
 
-use Railken\Amethyst\Fakers\SkuFaker;
-use Railken\Amethyst\Managers\SkuManager;
-use Railken\Amethyst\Tests\BaseTest;
+use Amethyst\Fakers\SkuFaker;
+use Amethyst\Managers\SkuManager;
+use Amethyst\Tests\BaseTest;
 use Railken\Lem\Support\Testing\TestableBaseTrait;
 
 class SkuTest extends BaseTest
