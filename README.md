@@ -1,6 +1,6 @@
 # amethyst-sku
 
-[![Build Status](https://travis-ci.org/amethyst-php/sku.svg?branch=master)](https://travis-ci.org/amethyst-php/sku)
+[![Action Status](https://github.com/amethyst-php/sku/workflows/test/badge.svg)](https://github.com/amethyst-php/sku/actions)
 
 [Amethyst](https://github.com/amethyst-php/amethyst) package.
 
